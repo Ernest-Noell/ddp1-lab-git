@@ -1,1 +1,4 @@
-print("Ernest Noell - 2606805626")
+nama = input("")
+npm = input("")
+
+print(f"{nama} - {npm}")
